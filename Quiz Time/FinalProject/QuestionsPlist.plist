@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>Question</key>
+			<string>Nodes are another name of</string>
+			<key>Option1</key>
+			<string>Modes</string>
+			<key>Option2</key>
+			<string>Medium</string>
+			<key>Option3</key>
+			<string>Links</string>
+			<key>Option4</key>
+			<string>Devices</string>
+			<key>Answer</key>
+			<string>Devices</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Star topology is used in</string>
+			<key>Option1</key>
+			<string>MAN</string>
+			<key>Option2</key>
+			<string>LAN</string>
+			<key>Option3</key>
+			<string>WAN</string>
+			<key>Option4</key>
+			<string>Internetwork</string>
+			<key>Answer</key>
+			<string>LAN</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Bus, ring and star topologies are mostly used in the</string>
+			<key>Option1</key>
+			<string>MAN</string>
+			<key>Option2</key>
+			<string>LAN</string>
+			<key>Option3</key>
+			<string>WAN</string>
+			<key>Option4</key>
+			<string>Internetwork</string>
+			<key>Answer</key>
+			<string>LAN</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Star topology is less expensive then</string>
+			<key>Option1</key>
+			<string>Mesh</string>
+			<key>Option2</key>
+			<string>Ring</string>
+			<key>Option3</key>
+			<string>Bus</string>
+			<key>Option4</key>
+			<string>Hybrid</string>
+			<key>Answer</key>
+			<string>Mesh</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Difficult reconnection and fault isolation are disadvantages of</string>
+			<key>Option1</key>
+			<string>Star topology</string>
+			<key>Option2</key>
+			<string>Mesh topology</string>
+			<key>Option3</key>
+			<string>Ring topology</string>
+			<key>Option4</key>
+			<string>Bus topology</string>
+			<key>Answer</key>
+			<string>Bus topology</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Combination of two or more networks are called</string>
+			<key>Option1</key>
+			<string>Internetwork</string>
+			<key>Option2</key>
+			<string>WAN</string>
+			<key>Option3</key>
+			<string>MAN</string>
+			<key>Option4</key>
+			<string>LAN</string>
+			<key>Answer</key>
+			<string>Internetwork</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Which topology covers security, robust and eliminating traffic factor?</string>
+			<key>Option1</key>
+			<string>Ring</string>
+			<key>Option2</key>
+			<string>Star</string>
+			<key>Option3</key>
+			<string>Mesh</string>
+			<key>Option4</key>
+			<string>Bus</string>
+			<key>Answer</key>
+			<string>Mesh</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>National Internet Service Provider (ISP) networks are connected to one another by private switching stations called</string>
+			<key>Option1</key>
+			<string>Network Access Points</string>
+			<key>Option2</key>
+			<string>Peering Points</string>
+			<key>Option3</key>
+			<string>National ISP</string>
+			<key>Option4</key>
+			<string>Regional ISP</string>
+			<key>Answer</key>
+			<string>Peering Points</string>
+		</dict>
+		<dict>
+			<key>Question</key>
+			<string>Multipoint topology is</string>
+			<key>Option1</key>
+			<string>Ring</string>
+			<key>Option2</key>
+			<string>Star</string>
+			<key>Option3</key>
+			<string>Mesh</string>
+			<key>Option4</key>
+			<string>Bus</string>
+			<key>Answer</key>
+			<string>Bus</string>
+		</dict>
+        <dict>
+            <key>Question</key>
+            <string>A communication path way that transfers data from one point to another is called</string>
+            <key>Option1</key>
+            <string>Link</string>
+            <key>Option2</key>
+            <string>Node</string>
+            <key>Option3</key>
+            <string>Medium</string>
+            <key>Option4</key>
+            <string>Topology</string>
+            <key>Answer</key>
+            <string>Link</string>
+        </dict>
+        <dict>
+            <key>Question</key>
+            <string>Common LAN topologies are</string>
+            <key>Option1</key>
+            <string>Bus and ring</string>
+            <key>Option2</key>
+            <string>Mesh and Ring</string>
+            <key>Option3</key>
+            <string>Star</string>
+            <key>Option4</key>
+            <string>both A And C</string>
+            <key>Answer</key>
+            <string>both A And C</string>
+        </dict>
+        <dict>
+            <key>Question</key>
+            <string>Network providing a high speed connectivity is</string>
+            <key>Option1</key>
+            <string>Internetwork</string>
+            <key>Option2</key>
+            <string>WAN</string>
+            <key>Option3</key>
+            <string>MAN</string>
+            <key>Option4</key>
+            <string>LAN</string>
+            <key>Answer</key>
+            <string>MAN</string>
+        </dict>
+        <dict>
+            <key>Question</key>
+            <string>Synonymous of rule is</string>
+            <key>Option1</key>
+            <string>Standard</string>
+            <key>Option2</key>
+            <string>Protocol</string>
+            <key>Option3</key>
+            <string>Forum</string>
+            <key>Option4</key>
+            <string>Agency</string>
+            <key>Answer</key>
+            <string>Protocol</string>
+        </dict>
+        <dict>
+            <key>Question</key>
+            <string>Connection in which multi devices share a single link is called</string>
+            <key>Option1</key>
+            <string>Point to point</string>
+            <key>Option2</key>
+            <string>Multipoint</string>
+            <key>Option3</key>
+            <string>Time Shared</string>
+            <key>Option4</key>
+            <string>Spatially Shared</string>
+            <key>Answer</key>
+            <string>Multipoint</string>
+        </dict>
+        <dict>
+            <key>Question</key>
+            <string>Elapsed time between an inquiry and a response is called.</string>
+            <key>Option1</key>
+            <string>Transit Time</string>
+            <key>Option2</key>
+            <string>Delay Time</string>
+            <key>Option3</key>
+            <string>Processing Time</string>
+            <key>Option4</key>
+            <string>Response time</string>
+            <key>Answer</key>
+            <string>Response time</string>
+        </dict>
+        <dict>
+            <key>Question</key>
+            <string>Repeater is used in</string>
+            <key>Option1</key>
+            <string>Mesh Topology</string>
+            <key>Option2</key>
+            <string>Ring Topology</string>
+            <key>Option3</key>
+            <string>Bus Topology</string>
+            <key>Option4</key>
+            <string>Star Topology</string>
+            <key>Answer</key>
+            <string>Ring Topology</string>
+        </dict>
+        <dict>
+            <key>Question</key>
+            <string>In bus topology, device linking all nodes in a network is</string>
+            <key>Option1</key>
+            <string>Router</string>
+            <key>Option2</key>
+            <string>DropLine</string>
+            <key>Option3</key>
+            <string>Backbone</string>
+            <key>Option4</key>
+            <string>hub</string>
+            <key>Answer</key>
+            <string>Backbone</string>
+        </dict>
+        <dict>
+            <key>Question</key>
+            <string>ATM is an example of</string>
+            <key>Option1</key>
+            <string>MAN</string>
+            <key>Option2</key>
+            <string>Point to Point WAN</string>
+            <key>Option3</key>
+            <string>Switched WAN</string>
+            <key>Option4</key>
+            <string>LAN</string>
+            <key>Answer</key>
+            <string>Switched WAN</string>
+        </dict>
+        <dict>
+            <key>Question</key>
+            <string>ISP stands for</string>
+            <key>Option1</key>
+            <string>Internet Service Provider</string>
+            <key>Option2</key>
+            <string>Internet System Provider</string>
+            <key>Option3</key>
+            <string>International Service Provider</string>
+            <key>Option4</key>
+            <string>International System Program</string>
+            <key>Answer</key>
+            <string>Internet Service Provider</string>
+        </dict>
+        <dict>
+            <key>Question</key>
+            <string>OSI stands for</string>
+            <key>Option1</key>
+            <string>Open Systems Interconnection</string>
+            <key>Option2</key>
+            <string>Online Systems Interconnection</string>
+            <key>Option3</key>
+            <string>Open Systems Internet</string>
+            <key>Option4</key>
+            <string>Online systems Interconnection</string>
+            <key>Answer</key>
+            <string>Open Systems Interconnection</string>
+        </dict>
+	</array>
+</dict>
+</plist>
